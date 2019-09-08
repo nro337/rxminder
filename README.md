@@ -11,7 +11,7 @@
 ---
 -- Developers:
 - Noah Rubin - iOS dev
-- Max Roling - ML dev
+- Max Roling - Image Processing dev
 - Harieasswar Lakshmidevi - Backend dev
 - Nick Alico - UI/UX
 ---
